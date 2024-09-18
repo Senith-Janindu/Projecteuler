@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Question7 {
+public class Question8 {
   public static void main(String[] args) {
     ArrayList<Long> numArr = new ArrayList<>();
     String number = "73167176531330624919225119674426574742355349194934" +
